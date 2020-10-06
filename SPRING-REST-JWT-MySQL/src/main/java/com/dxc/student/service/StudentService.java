@@ -7,8 +7,8 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;
 import org.springframework.stereotype.Service;
 
+import com.dxc.student.entities.StudentManagement;
 import com.dxc.student.exception.StudentNotFoundException;
-import com.dxc.student.models.StudentManagement;
 import com.dxc.student.repository.StudentRepository;
 
 @Service

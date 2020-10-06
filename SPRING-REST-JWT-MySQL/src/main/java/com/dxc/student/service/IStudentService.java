@@ -4,7 +4,7 @@ import java.util.List;
 
 import org.springframework.http.ResponseEntity;
 
-import com.dxc.student.models.StudentManagement;
+import com.dxc.student.entities.StudentManagement;
 
 public interface IStudentService {
 

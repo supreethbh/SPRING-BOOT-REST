@@ -1,4 +1,4 @@
-package com.dxc.student.models;
+package com.dxc.student.entities;
 
 import java.io.Serializable;
 
